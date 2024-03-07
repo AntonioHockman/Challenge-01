@@ -47,21 +47,22 @@ a {
 p {
     font-size: 16px;
 }
+/*class hero is the top image in website*/
 
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/digital-marketing-meeting.jpg" );
     background-size: cover;
     background-position: center;
 }
-
+/* affects the search engine optimization image and the social-media-marketing image*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*affects the online-reputation-management*/
 .float-right {
     float: right;
     margin-left: 25px;
