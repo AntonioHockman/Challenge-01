@@ -15,4 +15,5 @@ added alt discriptions to images
 class hero image was a url in css, i added title="meeting of 4 people" as a discription css could relate too.
 
 link for deployed webside https://antoniohockman.github.io/Challenge-01/ 
-![Screenshot]("C:\Users\adhoc\Pictures\Screenshots\Screenshot 2024-03-07 215454.png")
+
+![alt text]("<Screenshot 2024-03-07 215454.png>")
